@@ -1,12 +1,43 @@
-- 👋 Hi, I’m @banaya7
-- 👀 I’m interested in learning, and continuing my experience in multiple avenues of Tech.
-- 🌱 I’m currently learning PostgreSQL, Kubernetes and Jenkins, Python.
-- 💞️ I’m looking to collaborate on things where I can gain experience, and given my insights. 
-- 📫 How to reach me email is best at brandona28@gmail.com
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I was able to snowboard on my birthday in June when I lived in Australia for two years. 
+# Hi there, I'm Brandon 👋
 
-<!---
-banaya7/banaya7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌟 About Me
+I'm an aspiring IT professional with a diverse background in biology and system administration. I’ve worked hard to develop a solid foundation in tech, and I’m passionate about continuous learning and tackling creative challenges. My journey has taken me through various fields and certifications, giving me a unique perspective and an eagerness to build, break, and innovate.
+
+## 🛠 Skills & Certifications
+
+### **IT Knowledge**:
+- **Networking**: CompTIA Network+ certified; understanding of LAN/WAN, network security, and wireless standards.
+- **Hardware & Support**: Hands-on experience troubleshooting hardware and managing devices.
+- **Operating Systems**: Linux server management, Active Directory Domain Services (AD DS), Windows, and macOS.
+- **Programming**: Proficient in Python; experience with PostgreSQL and command-line scripting.
+- **DevOps**: Halfway through Kubernetes Jenkins CI/CD DevOps IBM certification.
+- **IoT Projects**: Building and managing hardware-based projects using Raspberry Pi and Raspberry Pi Pico.
+- **Serverless Computing**: Exploring integrations for smart hardware systems.
+
+### **Certifications**:
+- CompTIA A+
+- CompTIA Network+
+- Introduction to DevOPs & Site Reliability Engineneering
+
+
+## 💻 Current Projects
+- **Laptop Saver**: A software project focused on improving device performance and longevity.
+
+## 🎯 Career Goals
+I’m currently breaking into the IT field, exploring roles that involve technical support, DevOps, and IoT development. My ultimate goal is to contribute to innovative and sustainable tech solutions.
+
+## 🤝 Collaboration & Interests
+- **Open to**: Collaborating on IoT, Python, and PowerShell projects.
+
+## 📈 Fun Stats
+- **Travel**: I have lived in five countries, and visited over 25!
+- **GitHub Activity**: Actively learning to navigate GitHub repositories and contribute effectively.
+
+## 📬 Get in Touch
+- **LinkedIn**: www.linkedin.com/in/brandon-anaya-009247193
+- **Email**: Brandona28@gmail.com
+- **Portfolio**: Coming soon
+
+---
+*Thanks for stopping by! Feel free to explore my repositories or reach out if you'd like to collaborate.*
+
