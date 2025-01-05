@@ -10,7 +10,7 @@ I'm an aspiring IT professional with a diverse background in biology and system 
 - **Hardware & Support**: Hands-on experience troubleshooting hardware and managing devices.
 - **Operating Systems**: Linux server management, Active Directory Domain Services (AD DS), Windows, and macOS.
 - **Programming**: Proficient in Python; experience with PostgreSQL and command-line scripting.
-- **DevOps**: Halfway through Kubernetes Jenkins CI/CD DevOps IBM certification.
+- **DevOps**: Familliar with Kubernetes, Jenkins, Docker, and other DevOps processes.
 - **IoT Projects**: Building and managing hardware-based projects using Raspberry Pi and Raspberry Pi Pico.
 - **Serverless Computing**: Exploring integrations for smart hardware systems.
 
