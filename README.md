@@ -1,7 +1,7 @@
 # Hi there, I'm Brandon 👋
 
 ## 🌟 About Me
-I'm an aspiring IT professional with a diverse background in biology and system administration. I’ve worked hard to develop a solid foundation in tech, and I’m passionate about continuous learning and tackling creative challenges. My journey has taken me through various fields and certifications, giving me a unique perspective and an eagerness to build, break, and innovate.
+I'm an IT professional with a diverse background in system administration and cloud computing. I’ve worked hard to develop a solid foundation in tech, and I’m passionate about continuous learning and tackling creative challenges. My journey has taken me through various fields and certifications, giving me a unique perspective and an eagerness to build, break, and innovate.
 
 ## 🛠 Skills & Certifications
 
@@ -17,14 +17,17 @@ I'm an aspiring IT professional with a diverse background in biology and system 
 ### **Certifications**:
 - CompTIA A+
 - CompTIA Network+
+- CompTIA Security+
 - Introduction to DevOPs & Site Reliability Engineneering
+- AWS Solutions Architect: Associate
 
 
 ## 💻 Current Projects
 - **Laptop Saver**: A software project focused on improving device performance and longevity.
+- **PowerShell: Automation of several sys admin tasks 
 
 ## 🎯 Career Goals
-I’m currently breaking into the IT field, exploring roles that involve technical support, DevOps, and IoT development. My ultimate goal is to contribute to innovative and sustainable tech solutions.
+I’m currently in the IT field, exploring roles that involve technical support, DevOps, and IoT development. My ultimate goal is to contribute to innovative and sustainable tech solutions.
 
 ## 🤝 Collaboration & Interests
 - **Open to**: Collaborating on IoT, Python, and PowerShell projects.
