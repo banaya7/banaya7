@@ -52,7 +52,7 @@ I’m growing toward a future in Linux systems administration, IT automation, an
 - 🔗 [LinkedIn](https://www.linkedin.com/in/brandon-anaya-009247193/)
 - 📧 Brandona28@gmail.com
 - 💻 [GitHub](https://github.com/banaya7)
-- 🌐 [Personal Website] (https://banaya7.github.io/brandonanaya.github.io)
+- 🌐 [Personal Website](https://banaya7.github.io/brandonanaya.github.io)
 ---
 
 *Thanks for visiting! Feel free to check out my repos or reach out if you're building something cool in IT, automation, or Linux systems.*
