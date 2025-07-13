@@ -1,46 +1,58 @@
 # Hi there, I'm Brandon 👋
 
-## 🌟 About Me
-I'm an IT professional with a diverse background in system administration and cloud computing. I’ve worked hard to develop a solid foundation in tech, and I’m passionate about continuous learning and tackling creative challenges. My journey has taken me through various fields and certifications, giving me a unique perspective and an eagerness to build, break, and innovate.
+## About Me
+I'm an IT Support Analyst and systems enthusiast with hands-on experience supporting over 1,000 users in an enterprise environment. I work daily with tools like Active Directory, Entra ID, Intune, BlueCat, and PowerShell to solve complex technical problems and automate workflows. I'm passionate about building efficient systems, reducing manual overhead, and mentoring others in the IT space.
 
-## 🛠 Skills & Certifications
-
-### **IT Knowledge**:
-- **Networking**: CompTIA Network+ certified; understanding of LAN/WAN, network security, and wireless standards.
-- **Hardware & Support**: Hands-on experience troubleshooting hardware and managing devices.
-- **Operating Systems**: Linux server management, Active Directory Domain Services (AD DS), Windows, and macOS.
-- **Programming**: Proficient in Python; experience with PostgreSQL and command-line scripting.
-- **DevOps**: Familliar with Kubernetes, Jenkins, Docker, and other DevOps processes.
-- **IoT Projects**: Building and managing hardware-based projects using Raspberry Pi and Raspberry Pi Pico.
-- **Serverless Computing**: Exploring integrations for smart hardware systems.
-
-### **Certifications**:
-- CompTIA A+
-- CompTIA Network+
-- CompTIA Security+
-- Introduction to DevOPs & Site Reliability Engineneering
-- AWS Solutions Architect: Associate
-
-
-## 💻 Current Projects
-- **Laptop Saver**: A software project focused on improving device performance and longevity.
-- **PowerShell: Automation of several sys admin tasks 
-
-## 🎯 Career Goals
-I’m currently in the IT field, exploring roles that involve technical support, DevOps, and IoT development. My ultimate goal is to contribute to innovative and sustainable tech solutions.
-
-## 🤝 Collaboration & Interests
-- **Open to**: Collaborating on IoT, Python, and PowerShell projects.
-
-## 📈 Fun Stats
-- **Travel**: I have lived in five countries, and visited over 25!
-- **GitHub Activity**: Actively learning to navigate GitHub repositories and contribute effectively.
-
-## 📬 Get in Touch
-- **LinkedIn**: www.linkedin.com/in/brandon-anaya-009247193
-- **Email**: Brandona28@gmail.com
-- **Portfolio**: Coming soon
+Outside of work, I run a self-hosted homelab, tinker with Linux, and write scripts to make IT smoother, smarter, and more secure.
 
 ---
-*Thanks for stopping by! Feel free to explore my repositories or reach out if you'd like to collaborate.*
 
+## 🛠 Technical Skills
+
+### **Core Tools & Technologies**
+- **OS Administration**: Windows 10/11, macOS, Arch Linux (T2 Mac), RHEL, Ubuntu Server
+- **Directory & Endpoint Management**: Active Directory, Entra ID (Azure AD), Intune, BlueCat IPAM
+- **Scripting & Automation**: PowerShell, Bash, Batch, Python
+- **Imaging & Deployment**: MDT/WDS, BIOS automation, Windows upgrade readiness scripting
+- **Monitoring & Dashboards**: Grafana, pfSense logs, Proxmox telemetry
+- **Security & Compliance**: BitLocker, Secure Boot, TPM, Windows Defender
+- **Infrastructure**: Proxmox VE, pfSense, Pi-hole, Ansible (learning), OpenVAS (learning)
+
+---
+
+## 📜 Certifications
+- **AWS Solutions Architect – Associate**
+- **CompTIA Security+**
+- **CompTIA Network+**
+- **CompTIA A+**
+- **Linux Foundation: Intro to DevOps & SRE**
+
+---
+
+## 💻 Current Projects
+-  **Windows 11 Readiness Script**: Gathers upgrade eligibility across lab systems and exports to a reportable spreadsheet.
+-  **BIOS Config Script**: Enforces secure BIOS settings for consistency and compliance across 600+ lab machines.
+-  **Daily Uptime Tracker**: Automates lab system monitoring and flags machines needing attention.
+-  **Homelab**: Hosting a DNS-blocking Pi-hole server, pfSense firewall, Proxmox VMs, and Linux services monitored via Grafana.
+
+---
+
+## 🎯 Career Goals
+I’m growing toward a future in Linux systems administration, IT automation, and infrastructure as code. I enjoy working hands-on, writing clean scripts, and introducing open-source tools into enterprise workflows.
+
+---
+
+## 🤝 Collaboration & Interests
+- **Open to Collaborating On**: Linux admin projects, PowerShell automation, open-source IT tools
+- **Current Interests**: Teaching others, home networking, scripting hardware compliance, cybersecurity fundamentals
+
+---
+
+## 📬 Let's Connect
+- 🔗 [LinkedIn](https://www.linkedin.com/in/brandon-anaya-009247193/)
+- 📧 Brandona28@gmail.com
+- 💻 [GitHub](https://github.com/banaya7)
+- 🌐 [Personal Website] (https://banaya7.github.io/brandonanaya.github.io)
+---
+
+*Thanks for visiting! Feel free to check out my repos or reach out if you're building something cool in IT, automation, or Linux systems.*
